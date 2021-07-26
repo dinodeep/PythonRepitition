@@ -53,4 +53,4 @@ print(combined_str)
 
 # 10. redefine the variable 'z' by converting it to a string using str(...)
 #     str(...) takes in 1 input and converts it to its string respresentation
-#    print the type and value of the redefined z
+#    print the type and value of the redefined
