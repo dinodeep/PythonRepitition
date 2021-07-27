@@ -35,6 +35,7 @@ print(not ((False and True) or (False and False)) and ((False and True) and not 
 
 # also some comparisons evaluate to True or False depending on whether they are true or not
 # some of these operations are:
+#  == (equal to)
 #   < (less than)
 #   > (greater than)
 #  <= (less than or equal to)
@@ -43,6 +44,8 @@ print(not ((False and True) or (False and False)) and ((False and True) and not 
 print(23 > 10)
 print(-3 <= 18)
 print(-4 < -23)
+print(23 == 23)
+print(18 == 17)
 
 # ====================
 # PRACTICE STARTS HERE

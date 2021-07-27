@@ -50,7 +50,7 @@ print(this_is_a_number)         # printing value
 # 6. REDEFINE the variable with name 'y' and give it value of it's current value plus 3
 # print the type of this variable and print its value
 
-# 7. REDEFINE the variable with name 'sum' and give it value of the 'x' and 'y' values
+# 7. REDEFINE the variable with name 'sum' and give it value of the sum 'x' and 'y' values
 # print the type and value of this variable
 
 # 8. CHALLENGE: swap the values in 'x' and 'y' ('x' is redefined to have 'y' value and 'y' is redefined to have 'x' value)
