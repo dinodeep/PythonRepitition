@@ -69,9 +69,12 @@ print(18 == 17)
 
 # predict the values of the variables below, print the result to validate your answer (understand how it got to that result)
 # do it one at a time because some variables will refernce variables above them
-a = not True and False or False
-b = (True or not False and True) or False
-c = not (False and True) and False or (not (True and not False) or False and True)
+a = not True and False or False # False
+b = (True or not False and True) or False # True
+c = not (False and True) and False or (not (True and not False) or False and True) # False
+
 d = not not not not not (not (not not not True and False) and True or False)
-e = (not (a and b) or not (c or d)) and (a and not (b or c))
+# false
+e = (not (a and b) or not (c or d)) and (a and not (b or c)) # false
 f = ((e and not b) or (c and d)) or (not (a and (not c and (d and True))))
+# true

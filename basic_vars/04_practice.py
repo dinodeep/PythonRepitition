@@ -18,7 +18,7 @@
 #       0. take in three numbers (x, y, and z in order) with three calls to input(...) function
 #       1. converts all three to integers
 #       2. prints True if any ordering of the numbers satisfies a right triangle False otherwise
-#       NOTE: you will have to see if the Pythagorean theorem is satisfied three times!
+#       NOTE: you will have to see if the Pythagorean theorem is satisfied three different times!
 
 # write code that FINDS THE LINE BETWEEEN TWO POINTS
 #       0. take in four numbers (x0, y0) and (x1, y1) with four calls to input(...) function
